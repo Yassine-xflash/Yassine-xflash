@@ -3,7 +3,7 @@
 <img  align="right" width="400" src="https://snehpatel.co.uk/wp-content/uploads/2023/05/profile-1.gif" alt="Computer Science" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-xflash&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-xflash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yassine-xflash" alt="yassine-xflash" /></a> </p>
+
 
 - 🌱 I’m currently learning **C++ and Java**
 
