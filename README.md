@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yassine moulat el ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine moulat el ali" height="30" width="40" /></a>
+<a href="https://ma.linkedin.com/in/yassine-moulat-el-ali-306285246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine moulat el ali" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/yassineflash5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassineflash5" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@yassineflash5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yassineflash5" height="30" width="40" /></a>
 </p>
