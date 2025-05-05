@@ -1,30 +1,116 @@
-<h1 align="center">Hi 👋, I'm Moulat El Ali Yassine</h1>
-<h3 align="center">I'm a computer science engineer student</h3>
-<img  align="right" width="400" src="https://snehpatel.co.uk/wp-content/uploads/2023/05/profile-1.gif" alt="Computer Science" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yassine-xflash&label=Profile%20views&color=0e75b6&style=flat" alt="yassine-xflash" /> </p>
-
-
-
-- 🌱 I’m currently learning **C++ and Java**
-
-- 💬 Ask me about **Java**
-
-- 📫 How to reach me **yassine.moulatelali@usmba.ac.ma**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://ma.linkedin.com/in/yassine-moulat-el-ali-306285246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yassine moulat el ali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yassineflash5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yassineflash5" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@yassineflash5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@yassineflash5" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Computer%20Science%20Engineer-1E1E2F?style=flat-square&logo=IEEE&logoColor=00D4B8" alt="Computer Science Engineer" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-1E1E2F?style=flat-square&logo=HTML5&logoColor=00D4B8" alt="Full-Stack Developer" />
+  <img src="https://img.shields.io/badge/-Cloud%20Enthusiast-1E1E2F?style=flat-square&logo=Amazon%20AWS&logoColor=00D4B8" alt="Cloud Enthusiast" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yassine-xflash&label=Profile%20Views&color=00D4B8&style=flat-square" alt="Profile Views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine-xflash&show_icons=true&locale=en&layout=compact" alt="yassine-xflash" /></p>
+---
 
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yassine-xflash&show_icons=true&locale=en" alt="yassine-xflash" /></p>
+I’m **Moulat El Ali Yassine**, a dedicated Computer Science Engineering student at Fez National School of Applied Sciences. Specializing in **full-stack development**, **cloud computing**, and **database management**, I craft impactful, scalable solutions. My work spans web applications, e-learning platforms, and secure systems, driven by a passion for innovation.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-xflash&" alt="yassine-xflash" /></p>
+---
+
+## 🛠️ Skills & Technologies
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-1E1E2F?style=flat-square&logo=Java&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Python-1E1E2F?style=flat-square&logo=Python&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-C%2B%2B-1E1E2F?style=flat-square&logo=C%2B%2B&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-JavaScript-1E1E2F?style=flat-square&logo=JavaScript&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-PHP-1E1E2F?style=flat-square&logo=PHP&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-HTML5-1E1E2F?style=flat-square&logo=HTML5&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-CSS3-1E1E2F?style=flat-square&logo=CSS3&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-MySQL-1E1E2F?style=flat-square&logo=MySQL&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Oracle-1E1E2F?style=flat-square&logo=Oracle&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-AWS-1E1E2F?style=flat-square&logo=Amazon%20AWS&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Azure-1E1E2F?style=flat-square&logo=Microsoft%20Azure&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Docker-1E1E2F?style=flat-square&logo=Docker&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Git-1E1E2F?style=flat-square&logo=Git&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Spring-1E1E2F?style=flat-square&logo=Spring&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Bootstrap-1E1E2F?style=flat-square&logo=Bootstrap&logoColor=00D4B8" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### **Leave Management System**  
+*Internship Project at Court of First Instance, Fez*  
+- Engineered a web application to streamline employee leave and account management.  
+- **Tech Stack**: PHP, HTML, CSS, JavaScript, MySQL  
+- **Outcome**: Enhanced operational efficiency with automated leave tracking.
+
+### **Ta'allam eLearning Platform**  
+- Developed a robust e-learning system featuring course management and assessments.  
+- **Tech Stack**: ASP.NET, WebAPI, Razor, SQL Server  
+
+### **Voting System Application**  
+- Built a secure, real-time voting system with advanced security protocols.  
+- **Tech Stack**: Java, Firebase  
+
+### **ECOBUS - Sustainable Transportation Prototype & Website**  
+- Created a prototype and website promoting eco-friendly public transit.  
+- **Tech Stack**: HTML, CSS, JavaScript  
+
+---
+
+## 🏅 Certifications
+
+- **Oracle Certified Professional: Java SE 21 Developer**  
+- **AWS Fundamentals** (Coursera)  
+- **Getting Started as an Azure Developer** (LinkedIn Learning)  
+- **Spring & Hibernate for Beginners** (Udemy)  
+- **Web Development with ASP.NET** (Udemy)  
+
+---
+
+## 🌟 Leadership & Community Involvement
+
+- **Club Future Pioneer**  
+  *Head of Design and Media*  
+  - Spearheaded the "Lamsat Difaa" humanitarian campaign for two editions, boosting community outreach.
+
+- **Club SECOPS**  
+  *Head of Design*  
+  - Coordinated cybersecurity courses and CTF events to promote skill-building.
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:yassine.moulatelali@usmba.ac.ma"><img src="https://img.shields.io/badge/-Email-1E1E2F?style=flat-square&logo=Gmail&logoColor=00D4B8" alt="Email" /></a>
+  <a href="https://ma.linkedin.com/in/yassine-moulat-el-ali-306285246"><img src="https://img.shields.io/badge/-LinkedIn-1E1E2F?style=flat-square&logo=LinkedIn&logoColor=00D4B8" alt="LinkedIn" /></a>
+  <a href="https://www.leetcode.com/yassineflash5"><img src="https://img.shields.io/badge/-LeetCode-1E1E2F?style=flat-square&logo=LeetCode&logoColor=00D4B8" alt="LeetCode" /></a>
+  <a href="https://www.hackerearth.com/@yassineflash5"><img src="https://img.shields.io/badge/-HackerEarth-1E1E2F?style=flat-square&logo=HackerEarth&logoColor=00D4B8" alt="HackerEarth" /></a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine-xflash&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yassine-xflash&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-xflash&theme=dracula" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center">
+  <strong>Interested in collaboration?</strong>  
+  <a href="https://github.com/Yassine-xflash?tab=repositories"><img src="https://img.shields.io/badge/-Explore%20Repositories-1E1E2F?style=flat-square&logo=GitHub&logoColor=00D4B8" alt="Explore Repositories" /></a>
+</p>
 
