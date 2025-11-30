@@ -1,17 +1,46 @@
-<h1 align="center">🚀 Hey, I'm Yassine</h1>
-
+<!-- ✨ Minimal Clean Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D4B8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%F0%9F%9A%80;Full-Stack+%26+DevOps+Enthusiast+%F0%9F%9A%80;Cloud+%26+AI+Powered+Problem+Solver+%F0%9F%A4%96;Always+learning%2C+building%2C+and+shipping+%E2%9C%A8" alt="Typing Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=140&section=header&text=Yassine%20Moulat%20El%20Ali&fontSize=34&fontColor=58A6FF&animation=fadeIn"/>
+    <source media="(prefers-color-scheme: light)" 
+      srcset="https://capsule-render.vercel.app/api?type=rect&color=F5F5F5&height=140&section=header&text=Yassine%20Moulat%20El%20Ali&fontSize=34&fontColor=0A0F1F&animation=fadeIn"/>
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=F5F5F5&height=140&section=header&text=Yassine%20Moulat%20El%20Ali&fontSize=34&fontColor=0A0F1F&animation=fadeIn" 
+      alt="Yassine Header"/>
+  </picture>
+</p>
+
+
+<!-- 🧠 Typing subtitle that adapts to theme -->
+<p align="center">
+  <picture>
+    <!-- Dark mode typing -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=00F5C8&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Full-Stack+%26+DevOps+Enthusiast;Cloud+%26+AI-Powered+Problem+Solver;Automating+boring+things+since+day+one"
+    />
+    <!-- Light mode typing -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=0A0F1F&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Full-Stack+%26+DevOps+Enthusiast;Cloud+%26+AI-Powered+Problem+Solver;Automating+boring+things+since+day+one"
+    />
+    <!-- Fallback -->
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1100&color=0A0F1F&center=true&vCenter=true&width=720&lines=Software+Engineering+Student;Full-Stack+%26+DevOps+Enthusiast;Cloud+%26+AI-Powered+Problem+Solver;Automating+boring+things+since+day+one" 
+      alt="Typing Animation"
+    />
+  </picture>
+</p>
+
+<!-- 🎯 Role badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Software%20Engineer%20in%20the%20Making-0A0F1F?style=flat&logo=academia&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-0A0F1F?style=flat&logo=react&logoColor=00D4B8" />
+  <img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps%20Explorer-0A0F1F?style=flat&logo=amazonaws&logoColor=00D4B8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Software%20Engineer%20in%20the%20Making-0A0F1F?style=flat-square&logo=academia&logoColor=00D4B8"/>
-  <img src="https://img.shields.io/badge/-Full--Stack%20Developer-0A0F1F?style=flat-square&logo=react&logoColor=00D4B8"/>
-  <img src="https://img.shields.io/badge/-Cloud%20%26%20DevOps%20Explorer-0A0F1F?style=flat-square&logo=amazonaws&logoColor=00D4B8"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yassine-xflash&label=Visitors&color=00D4B8&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yassine-xflash&label=Profile%20Views&color=00D4B8&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -19,11 +48,16 @@
 ## 👨‍💻 About Me
 
 I'm **Moulat El Ali Yassine**, a Software Engineering student at the **National School of Applied Sciences, Fez**.  
-I enjoy turning ideas into **scalable applications**, mixing **full‑stack development**, **cloud**, **AI**, and **DevOps** to build things that are both **useful** and **reliable**.
+I enjoy turning ideas into **scalable applications**, mixing **full-stack development**, **cloud**, **AI**, and **DevOps** to build things that are both **useful** and **reliable**.
 
-- 🎯 Focused on: automation, academic integrity tools, and smart platforms
-- 🧠 Comfortable across the stack: frontend, backend, cloud, CI/CD
-- 🚀 Always exploring: AI-assisted systems and developer productivity tools
+- 🎯 Focused on: automation, academic integrity tools, and smart platforms  
+- 🧠 Comfortable across the stack: frontend, backend, cloud, CI/CD  
+- 🤖 Currently playing with: AI-assisted systems & developer productivity tools  
+- ⚡ Fun fact: I like replacing boring manual processes with clean, automated flows  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Coding gif">
+</p>
 
 ---
 
@@ -72,13 +106,13 @@ I enjoy turning ideas into **scalable applications**, mixing **full‑stack deve
 ## 🚀 Highlighted Experience
 
 ### 🧾 Software Engineering Intern — Muslim Institutions Fundraising Project (New York, USA)
-- Built an **OCR-based automation app** to streamline fundraising processes for Muslim institutions.
-- Worked with **Docker, Python, DocTr, FastAPI, React, Next.js, TypeScript, Tesseract OCR, Stripe**.
+- Built an **OCR-based automation app** to streamline fundraising processes for Muslim institutions.  
+- Worked with **Docker, Python, DocTr, FastAPI, React, Next.js, TypeScript, Tesseract OCR, Stripe**.  
 - Focused on automation, reliability, and making non-technical workflows easier.
 
 ### ⚖️ Full-Stack Intern — Court of First Instance (Public Prosecutor’s Office), Fez
-- Developed a **Leave & Employee Management** web application.
-- Tech stack: **PHP, HTML, CSS, JavaScript, MySQL, Git**.
+- Developed a **Leave & Employee Management** web application.  
+- Tech stack: **PHP, HTML, CSS, JavaScript, MySQL, Git**.  
 - Replaced manual workflows with a cleaner, digital system.
 
 ---
@@ -86,63 +120,129 @@ I enjoy turning ideas into **scalable applications**, mixing **full‑stack deve
 ## 🧪 Projects I’m Proud Of
 
 ### 🩸 Bloodna — Blood Donation Management Platform
-- **Goal:** Make blood donation more efficient and smarter.
-- **Tech:** React Native, Node.js, Python, Google Gemini API.
+- **Goal:** Make blood donation more efficient and smarter.  
+- **Tech:** React Native, Node.js, Python, Google Gemini API.  
 - AI helps match donors, manage data, and improve the donation flow.
 
 ### 🧠 SIPA — Academic Integrity System
 - Web platform that helps detect:
-  - Plagiarism
-  - AI-generated content
-  - Suspicious behavior during remote exams
+  - Plagiarism  
+  - AI-generated content  
+  - Suspicious behavior during remote exams  
 - **Tech:** Flask, Python, React, Next.js.
 
 ### 🚗 Vehicle Rental System
-- Desktop application for reservation and vehicle management.
+- Desktop application for reservation and vehicle management.  
 - **Tech:** Java, Swing, SQL.
 
 ---
 
 ## 🏅 Certifications
 
-- GH-200 Certified: **GitHub Actions**
-- **AWS Cloud Practitioner Essentials** – AWS Training & Certification
-- **Microsoft Certified: Azure Fundamentals**
-- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**
-- **Docker Foundations** – Docker & LinkedIn Learning
-- **IBM DevOps, Cloud, and Agile Foundations**
-- **Python Programmer Bootcamp**
-- **Agile Project Management** – HP
+- GH-200 Certified: **GitHub Actions**  
+- **AWS Cloud Practitioner Essentials** – AWS Training & Certification  
+- **Microsoft Certified: Azure Fundamentals**  
+- **Oracle Cloud Infrastructure 2025 Certified Foundations Associate**  
+- **Docker Foundations** – Docker & LinkedIn Learning  
+- **IBM DevOps, Cloud, and Agile Foundations**  
+- **Python Programmer Bootcamp**  
+- **Agile Project Management** – HP  
 
 ---
 
 ## 🌟 Clubs & Community
 
-- 🎨 **Club Future Pioneer** – Co-organized three editions of the humanitarian campaign _“Lamsat Difaa”_.
-- 🛡️ **Club SECOPS** – Led cybersecurity courses and designed **CTF challenges**.
-- 💡 **Club Infochain** – Organized workshops on programming and design fundamentals.
+- 🎨 **Club Future Pioneer** – Co-organized three editions of the humanitarian campaign _“Lamsat Difaa”_.  
+- 🛡️ **Club SECOPS** – Led cybersecurity courses and designed **CTF challenges**.  
+- 💡 **Club Infochain** – Organized workshops on programming and design fundamentals.  
 
 ---
 
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yassine-xflash&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Top Languages" />
+  <!-- Top Languages -->
+  <picture>
+    <!-- Dark mode -->
+    <source 
+      media="(prefers-color-scheme: dark)" 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yassine-xflash&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=00D4B8&text_color=FFFFFF"
+    />
+    <!-- Light mode -->
+    <source 
+      media="(prefers-color-scheme: light)" 
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yassine-xflash&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0A0F1F&text_color=0A0F1F"
+    />
+    <!-- Fallback -->
+    <img 
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yassine-xflash&layout=compact&langs_count=8&hide_border=true&bg_color=FFFFFF&title_color=0A0F1F&text_color=0A0F1F" 
+      alt="Top Languages" 
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-xflash&show_icons=true&locale=en&theme=dracula" alt="GitHub Stats" />
+  <!-- Main Stats -->
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yassine-xflash&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=00D4B8&icon_color=00D4B8&text_color=FFFFFF&rank_icon=github"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=yassine-xflash&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=0A0F1F&icon_color=0A0F1F&text_color=0A0F1F&rank_icon=github"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=yassine-xflash&show_icons=true&include_all_commits=true&hide_border=true&bg_color=FFFFFF&title_color=0A0F1F&icon_color=0A0F1F&text_color=0A0F1F&rank_icon=github"
+      alt="GitHub Stats"
+    />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yassine-xflash&theme=dracula" alt="GitHub Streak" />
+  <!-- Streak -->
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=yassine-xflash&theme=github-dark&hide_border=true&background=0D1117&ring=00D4B8&fire=00D4B8&currStreakLabel=FFFFFF"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-streak-stats.herokuapp.com?user=yassine-xflash&theme=github-light&hide_border=true&background=FFFFFF&ring=0A0F1F&fire=0A0F1F&currStreakLabel=0A0F1F"
+    />
+    <!-- Fallback -->
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=yassine-xflash&theme=github-light&hide_border=true&background=FFFFFF&ring=0A0F1F&fire=0A0F1F&currStreakLabel=0A0F1F"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
 <p align="center">
   <!-- Animated contribution grid (snake) -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <!-- Dark mode -->
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <!-- Light mode -->
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <!-- Fallback -->
+    <img 
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" 
+      alt="Snake animation" 
+    />
+  </picture>
 </p>
-
 ---
 
 ## 📫 Connect With Me
@@ -156,9 +256,6 @@ I enjoy turning ideas into **scalable applications**, mixing **full‑stack deve
   </a>
   <a href="https://www.leetcode.com/yassineflash5">
     <img src="https://img.shields.io/badge/-LeetCode-1E1E2F?style=flat-square&logo=LeetCode&logoColor=00D4B8" alt="LeetCode" />
-  </a>
-  <a href="https://www.hackerearth.com/@yassineflash5">
-    <img src="https://img.shields.io/badge/-HackerEarth-1E1E2F?style=flat-square&logo=HackerEarth&logoColor=00D4B8" alt="HackerEarth" />
   </a>
 </p>
 
